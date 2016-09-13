@@ -1,0 +1,4 @@
+>> For keep index tracking in the buffer array we need to track the final 
+sum, when they gets changes,  keep to the index instantly.
+
+>> 
